@@ -1,0 +1,1 @@
+console.log('Executable script from package json')
